@@ -1,6 +1,13 @@
 # Fitness Tracker Application
 
-Using MongoDB I created a Fitness Tracker Application. You can store and track your workouts with this application. In this application I created a Mongo database with a Mongoose schema and made handle routes with Express.
+Using MongoDB we created a Fitness Tracker Application. You can store and track your workouts with this application. In this application I created a Mongo database with a Mongoose schema and made handle routes with Express.
+
+## Authors
+
+- Tara Dehdari
+- Chris Rojas
+- William Jacobs
+- Zahraa Alshalal
 
 ## Dependencies Back End
 
